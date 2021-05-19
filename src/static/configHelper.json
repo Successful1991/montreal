@@ -1,0 +1,24 @@
+{
+	"desktop": {
+		"ua": [{
+			"title": "обертай"
+		}],
+		"ru":  [{
+			"title": "Вращай"
+		}],
+		"en":  [{
+			"title": "Rotate"
+		}]
+	},
+	"mobile": {
+    "ua": [{
+      "title": "обертай"
+    }],
+    "ru":  [{
+      "title": "Вращай"
+    }],
+    "en":  [{
+      "title": "Rotate"
+    }]
+	}
+}
